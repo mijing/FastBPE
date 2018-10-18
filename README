@@ -1,0 +1,6 @@
+bpe.py 是原始算法
+执行可以直接: python bpe.py sample.txt
+
+
+bpe_fast.py 是效率优化的算法, 提升1000x
+执行可以直接: python bpe_fast.py sample.txt
